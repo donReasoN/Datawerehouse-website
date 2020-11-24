@@ -1,3 +1,9 @@
+:root {
+    --darkGray: #212353;
+    --lightGray: #4B5D68;
+
+}
+
 html {
     box-sizing: border-box;
 }
@@ -8,4 +14,9 @@ html {
 
 .body {
     font-family: 'Nunito Sans', sans-serif;
+}
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
 }
