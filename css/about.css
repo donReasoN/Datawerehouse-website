@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgba(240, 99, 184, 0.15);
+    background-image: url('../images/about__background.svg');
+    background-repeat: no-repeat;
+    background-position: left 50%;
+    border-radius: 50px;
+    margin-top: 84px;
+}
+
+.about__textBox {
+    width: 42%;
+    margin: 125px 92px 125px 0;
+}
+
+.about__heading {
+    font-size: 40px;
+}

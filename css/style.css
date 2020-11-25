@@ -29,3 +29,9 @@ html {
     line-height: 160%;
     margin: 0;
 }
+
+.heading {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 700;
+    color: var(--darkGray);
+}
