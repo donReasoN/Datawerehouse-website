@@ -34,4 +34,5 @@ html {
     font-family: 'Helvetica', sans-serif;
     font-weight: 700;
     color: var(--darkGray);
+    font-size: 40px;
 }
