@@ -1,6 +1,7 @@
 :root {
     --darkGray: #212353;
     --lightGray: #4B5D68;
+    --violet: #9C69E2;
 
 }
 
@@ -14,9 +15,17 @@ html {
 
 .body {
     font-family: 'Nunito Sans', sans-serif;
+    color: var(--lightGray);
+    font-weight: 400;
+    font-size: 18px;
 }
 
 .container {
     max-width: 1120px;
     margin: 0 auto;
+}
+
+.text {
+    line-height: 160%;
+    margin: 0;
 }

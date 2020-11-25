@@ -19,3 +19,8 @@
     color: var(--darkGray);
     margin-left: auto;
 }
+
+.button--hero {
+    background-color: var(--violet);
+    color: #FFF;
+}
