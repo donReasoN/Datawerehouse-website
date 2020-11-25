@@ -1,6 +1,7 @@
 .features {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     margin-top: 150px;
 }
 
@@ -18,5 +19,9 @@
 .features__paragraph {
     text-align: center;
     margin: 50px 0 0;
+}
+
+.features__item {
+
 }
 
